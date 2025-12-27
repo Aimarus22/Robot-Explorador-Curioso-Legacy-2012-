@@ -35,6 +35,7 @@ El robot destaca por integrar múltiples subsistemas complejos en un microcontro
 
 * `/firmware`: Código fuente original (`main.c`) recuperado del archivo de 2013. Muestra la implementación manual de la máquina de estados y los retardos bloqueantes (`delay_us`) para la generación de señales.
 * `/hardware`: Archivos de diseño electrónico (Esquemáticos, PCBs y Gerbers) generados con OrCAD.
+* /applet_android : Programa original .apk
 * `/docs`: Memoria técnica completa, incluyendo el Plan de Negocio ficticio y diagramas de flujo.
 
 ## Nota de Preservación
