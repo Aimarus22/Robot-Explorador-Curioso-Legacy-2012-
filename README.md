@@ -15,11 +15,11 @@ Este archivo no es solo un backup, tiene un doble propósito académico y de inv
 ## Autores y Créditos
 Proyecto desarrollado por el equipo técnico de "Robotic Solutions" (empresa simulada para el proyecto PBL):
 
-* **Axier Albín** - *Desarrollo de aplicación Android*
-* **Jokin Mugika** - *Diseño Mecánico, fabricación de PCB, montaje y puesta a punto*
-* **Aimar Rollán-González** - *Firmware, gerbers y documentación*
+* **Axier Albín** - *Desarrollo de aplicación Android.*
+* **Jokin Mugika** - *Diseño Mecánico, fabricación de PCB, montaje y puesta a punto.*
+* **Aimar Rollán-González** - *Firmware, gerbers y documentación.*
 
-**Institución:** La Salle Berrozpe (Andoain, Gipuzkoa.España).
+**Institución:** La Salle Berrozpe (Andoain, Gipuzkoa, España).
 
 ## Stack Tecnológico (La "Vieja Escuela" de 2012)
 El robot destaca por integrar múltiples subsistemas complejos en un microcontrolador de 8 bits con recursos limitados, utilizando técnicas de programación de bajo nivel hoy en desuso en favor de capas de abstracción (HAL).
