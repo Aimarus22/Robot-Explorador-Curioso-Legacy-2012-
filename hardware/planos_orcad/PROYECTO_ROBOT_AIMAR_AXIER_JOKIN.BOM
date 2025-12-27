@@ -1,0 +1,41 @@
+Bloque general  Revised: Friday, November 09, 2012
+1          Revision: <g>
+
+
+
+
+
+
+
+Bill Of Materials       November 9,2012      11:22:36	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	C1	330n
+2	1	C2	100n
+3	1	C3	1µF
+4	2	C5,C4	22p
+5	1	D1	LED
+6	2	D3,D2	SMD1N4007
+7	1	J1	regleta bateria
+8	1	J2	regleta motor D
+9	1	J3	regleta motor I
+10	1	J4	regleta motor S
+11	1	J5	regleta bumper izquierdo
+12	1	J6	regleta bumper derecho
+13	1	J7	regleta sonar/bluethoot
+14	1	J8	regleta sonar
+15	1	J9	regleta linterna
+16	1	P1	Cristal  4 Mhz
+17	1	Q1	2N3904
+18	1	R1	220
+19	1	R2	1K
+20	4	R3,R4,R5,R6	4k7
+21	1	R7	15
+22	1	R8	5420
+23	1	S1	Interruptor
+24	1	S2	pulsador
+25	1	U1	LM7805
+26	1	U2	PIC 16F876A
+27	1	X1	Conector baterias
