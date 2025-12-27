@@ -1,0 +1,69 @@
+Post Processor Report
+OrCAD FILE: C:\USERS\ELEK2\DESKTOP\PROYECTO3\LINTERNA\LINTERNA4.MAX
+Mon Feb 04 12:47:22 2013
+
+*********************************************************
+
+Output file: C:\USERS\ELEK2\DESKTOP\PROYECTO3\LINTERNA\LINTERNA4.TOP
+
+Aperture totals for C:\USERS\ELEK2\DESKTOP\PROYECTO3\LINTERNA\LINTERNA4.TOP:
+---------------------------------------------------------
+D10:  0.1575 ROUND  --       0 Draws,       1 Flashes
+D11:  0.0787 ROUND  --       0 Draws,       5 Flashes
+D12:  0.0787 SQUARE --       0 Draws,       3 Flashes
+---------------------------------------------------------
+  3 D-Codes      -----       0 Draws,       9 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\ELEK2\DESKTOP\PROYECTO3\LINTERNA\LINTERNA4.BOT
+
+Aperture totals for C:\USERS\ELEK2\DESKTOP\PROYECTO3\LINTERNA\LINTERNA4.BOT:
+---------------------------------------------------------
+D16:  0.0394 ROUND  --      27 Draws,       0 Flashes
+D19:  0.1575 ROUND  --       0 Draws,       1 Flashes
+D20:  0.0787 ROUND  --       0 Draws,       5 Flashes
+D21:  0.0787 SQUARE --       0 Draws,       3 Flashes
+D22:  0.0120 ROUND  --       6 Draws,       0 Flashes
+---------------------------------------------------------
+  5 D-Codes      -----      33 Draws,       9 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\ELEK2\DESKTOP\PROYECTO3\LINTERNA\LINTERNA4.ASB
+
+Aperture totals for C:\USERS\ELEK2\DESKTOP\PROYECTO3\LINTERNA\LINTERNA4.ASB:
+---------------------------------------------------------
+D17:  0.0100 ROUND  --       4 Draws,       0 Flashes
+---------------------------------------------------------
+  1 D-Codes      -----       4 Draws,       0 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\ELEK2\DESKTOP\PROYECTO3\LINTERNA\LINTERNA4.DRD
+
+Aperture totals for C:\USERS\ELEK2\DESKTOP\PROYECTO3\LINTERNA\LINTERNA4.DRD:
+---------------------------------------------------------
+D17:  0.0100 ROUND  --     487 Draws,       0 Flashes
+---------------------------------------------------------
+  1 D-Codes      -----     487 Draws,       0 Flashes
+
+
+*********************************************************
+
+Aperture totals for entire project:
+---------------------------------------------------------
+D10:  0.1575 ROUND  --       0 Draws,       1 Flashes
+D11:  0.0787 ROUND  --       0 Draws,       5 Flashes
+D12:  0.0787 SQUARE --       0 Draws,       3 Flashes
+D16:  0.0394 ROUND  --      27 Draws,       0 Flashes
+D17:  0.0100 ROUND  --     491 Draws,       0 Flashes
+D19:  0.1575 ROUND  --       0 Draws,       1 Flashes
+D20:  0.0787 ROUND  --       0 Draws,       5 Flashes
+D21:  0.0787 SQUARE --       0 Draws,       3 Flashes
+D22:  0.0120 ROUND  --       6 Draws,       0 Flashes
+---------------------------------------------------------
+  9 D-Codes      -----     524 Draws,      18 Flashes
+
+
+No warnings or errors.
