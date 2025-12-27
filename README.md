@@ -1,5 +1,5 @@
 # Robot Explorador Curioso (Legacy 2012) 🤖
-
+https://doi.org/10.5281/zenodo.18072271
 > **3er Premio - Premios Don Bosco (DBSariak) 2013**
 > *Innovación en Electrónica y Robótica*
 
