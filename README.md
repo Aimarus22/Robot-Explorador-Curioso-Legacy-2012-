@@ -33,12 +33,12 @@ El robot destaca por integrar múltiples subsistemas complejos en un microcontro
 
 ## Estructura del Repositorio
 
-* `/firmware`: Código fuente original (`main.c`) recuperado del archivo de 2012. Muestra la implementación manual de la máquina de estados y los retardos bloqueantes (`delay_us`) para la generación de señales.
+* `/firmware`: Código fuente original (`main.c`) recuperado del archivo de 2013. Muestra la implementación manual de la máquina de estados y los retardos bloqueantes (`delay_us`) para la generación de señales.
 * `/hardware`: Archivos de diseño electrónico (Esquemáticos, PCBs y Gerbers) generados con OrCAD.
 * `/docs`: Memoria técnica completa, incluyendo el Plan de Negocio ficticio y diagramas de flujo.
 
 ## Nota de Preservación
-El código contenido en la carpeta `/firmware` se presenta **"tal cual" (as-is)** fue compilado en febrero de 2013. Contiene prácticas de programación específicas de aquel contexto (uso de retardos bloqueantes para temporización, variables globales, números mágicos) que se mantienen deliberadamente para preservar la integridad histórica y permitir el análisis comparativo con versiones futuras optimizadas.
+El código contenido en la carpeta `/firmware` se presenta **"tal cual" (as-is)** fue compilado en enero de 2013. Contiene prácticas de programación específicas de aquel contexto (uso de retardos bloqueantes para temporización, variables globales, números mágicos) que se mantienen deliberadamente para preservar la integridad histórica y permitir el análisis comparativo con versiones futuras optimizadas.
 
 ---
 *Repositorio mantenido por Aimar Rollán-González como parte del proyecto de investigación sobre evolución de sistemas embebidos (2012-2026).*
